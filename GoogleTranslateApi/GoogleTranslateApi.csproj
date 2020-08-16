@@ -49,11 +49,11 @@
   <ItemGroup>
     <Compile Include="Exceptions\ExternalKeyParseException.cs" />
     <Compile Include="Extensions\StringExtension.cs" />
-    <Compile Include="GoogleKeyTokenGenerator.cs" />
-    <Compile Include="GoogleTranslateIPBannedException.cs" />
+    <Compile Include="Controllers\GoogleKeyTokenGenerator.cs" />
+    <Compile Include="Exceptions\GoogleTranslateIPBannedException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Translator.cs" />
+    <Compile Include="Controllers\Translator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
