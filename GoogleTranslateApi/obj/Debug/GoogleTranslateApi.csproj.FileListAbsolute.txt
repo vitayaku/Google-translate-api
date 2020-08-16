@@ -1,0 +1,10 @@
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\bin\Debug\GoogleTranslateApi.exe.config
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\bin\Debug\GoogleTranslateApi.exe
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\bin\Debug\GoogleTranslateApi.pdb
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\obj\Debug\GoogleTranslateApi.csprojAssemblyReference.cache
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\obj\Debug\GoogleTranslateApi.csproj.CoreCompileInputs.cache
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\obj\Debug\GoogleTranslateApi.exe
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\obj\Debug\GoogleTranslateApi.pdb
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jam-art\Desktop\C Sharp\GoogleTranslateApi\GoogleTranslateApi\obj\Debug\GoogleTranslateApi.csproj.CopyComplete
